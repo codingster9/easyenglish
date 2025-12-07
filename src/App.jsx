@@ -12,13 +12,13 @@ import {
 
 // --- ⚠️ CRITICAL SETUP: FILL THESE FOR PUBLIC ACCESS ⚠️ ---
 // Agar aap chahte hain ki SABKO data dikhe, to apni Supabase Keys YAHAN paste karein.
-const DEFAULT_SB_URL = "https://wjmutbfnbeuqoxzpfkif.supabase.co";
-const DEFAULT_SB_KEY = "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJzdXBhYmFzZSIsInJlZiI6IndqbXV0YmZuYmV1cW94enBma2lmIiwicm9sZSI6ImFub24iLCJpYXQiOjE3NjQ5ODA5NzksImV4cCI6MjA4MDU1Njk3OX0.XJthls5k0Xj3cbWW5ivuwicog2gg4VwkOj1PNX8X2ns";
+const DEFAULT_SB_URL = "";
+const DEFAULT_SB_KEY = "";
 
 // --- ⚠️ GEMINI API KEY SETUP ⚠️ ---
 // This is the default Gemini API key that all users will use.
 // Sabhi users ke liye default Gemini API key.
-const DEFAULT_GEMINI_KEY = "AIzaSyB5j1vaTP_YFqQFttoHN80CmsdepB0_QlQ";
+const DEFAULT_GEMINI_KEY = "";
 
 const APP_NAME = "Easy English";
 const ADMIN_PASS = "aryan17650";
