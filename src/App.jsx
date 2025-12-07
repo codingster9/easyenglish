@@ -20,8 +20,8 @@ const DEFAULT_SB_KEY = "";
 // Sabhi users ke liye default Gemini API key.
 const DEFAULT_GEMINI_KEY = "";
 
-const APP_NAME = "Easy English";
-const ADMIN_PASS = "aryan17650";
+const APP_NAME = "";
+const ADMIN_PASS = "";
 
 // --- ANIMATION VARIANTS ---
 const pageTransition = {
